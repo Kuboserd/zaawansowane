@@ -11,7 +11,7 @@ public class Town {
                 new Townsman("Grzegorz Kowalewski"),
                 new Warrior("Ryan Waleczny")
         };
-        System.out.println(town.howManyCanVote(citizens));
+        System.out.println("Number of people who can vote: " + town.howManyCanVote(citizens));
         town.whoCanVote(citizens);
     }
 
