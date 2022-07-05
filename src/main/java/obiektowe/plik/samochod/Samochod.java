@@ -1,6 +1,12 @@
 package obiektowe.plik.samochod;
 
+import obiektowe.plik.warsztat.Kolo;
+
+import java.util.Random;
+
 public class Samochod {
+
+    private Kolo[] tires;
     private String mark;
     private double mileage;
     private double mileageUntilInspection = 20_000;
@@ -34,6 +40,11 @@ public class Samochod {
                 '}';
     }
 
+    public void catchFlatTire() {
+        Random random = new Random();
+        this.tires[random.nextInt(this.tires.length)].interact();
+    }
+
     public String getMark() {
         return mark;
     }
@@ -48,6 +59,10 @@ public class Samochod {
 
     public void setMileage(double mileage) {
         this.mileage = mileage;
+    }
+
+    public Kolo[] getTires() {
+        return tires;
     }
 
     public double getMileageUntilInspection() {
