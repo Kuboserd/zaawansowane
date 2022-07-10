@@ -1,4 +1,4 @@
-package obiektowe.plik.dom;
+package obiektowe.plik.task2.dom;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package obiektowe.plik.linia;
+package obiektowe.plik.task1.linia;
 
 import java.util.Random;
 

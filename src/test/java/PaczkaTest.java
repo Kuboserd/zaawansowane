@@ -1,4 +1,4 @@
-import obiektowe.plik.poczta.Paczka;
+import obiektowe.plik.task2.poczta.Paczka;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

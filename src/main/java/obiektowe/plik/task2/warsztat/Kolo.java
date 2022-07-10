@@ -1,4 +1,4 @@
-package obiektowe.plik.warsztat;
+package obiektowe.plik.task2.warsztat;
 
 public class Kolo {
     private float preassure;

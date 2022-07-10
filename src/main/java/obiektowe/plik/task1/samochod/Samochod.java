@@ -1,6 +1,6 @@
-package obiektowe.plik.samochod;
+package obiektowe.plik.task1.samochod;
 
-import obiektowe.plik.warsztat.Kolo;
+import obiektowe.plik.task2.warsztat.Kolo;
 
 import java.util.Random;
 

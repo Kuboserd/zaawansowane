@@ -1,4 +1,4 @@
-package obiektowe.plik.linia;
+package obiektowe.plik.task1.linia;
 
 public class Prostokat {
     int height;
