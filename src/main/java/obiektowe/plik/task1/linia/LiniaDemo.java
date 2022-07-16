@@ -1,4 +1,4 @@
-package obiektowe.plik.linia;
+package obiektowe.plik.task1.linia;
 
 public class LiniaDemo {
     public static void main(String[] args) {

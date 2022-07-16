@@ -1,4 +1,4 @@
-package obiektowe.plik.samochod;
+package obiektowe.plik.task1.samochod;
 
 public class SamochodDemo {
     public static void main(String[] args) {

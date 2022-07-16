@@ -1,4 +1,4 @@
-package obiektowe.powtorka.osoby;
+package obiektowe.plik.task1;
 
 public class Osoba {
 

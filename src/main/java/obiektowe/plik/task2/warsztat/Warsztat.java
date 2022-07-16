@@ -1,6 +1,6 @@
-package obiektowe.plik.warsztat;
+package obiektowe.plik.task2.warsztat;
 
-import obiektowe.plik.samochod.Samochod;
+import obiektowe.plik.task1.samochod.Samochod;
 
 public class Warsztat {
 

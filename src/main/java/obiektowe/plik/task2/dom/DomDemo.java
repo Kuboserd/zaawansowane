@@ -1,4 +1,4 @@
-package obiektowe.plik.dom;
+package obiektowe.plik.task2.dom;
 
 public class DomDemo {
     public static void main(String[] args) {
