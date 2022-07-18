@@ -1,7 +1,4 @@
-package obiektowe.plik.part2.laczenie.obiektow.citizen.town;
-
-import obiektowe.plik.citizen.*;
-import obiektowe.plik.part2.laczenie.obiektow.citizen.*;
+package obiektowe.plik.part2.laczenie.obiektow.town;
 
 public class Town {
     public static void main(String[] args) {

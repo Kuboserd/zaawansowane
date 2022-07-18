@@ -1,4 +1,4 @@
-package obiektowe.plik.part2.laczenie.obiektow.citizen;
+package obiektowe.plik.part2.laczenie.obiektow.town;
 
 public abstract class Citizen {
     protected String name;
